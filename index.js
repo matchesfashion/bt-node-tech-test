@@ -3,6 +3,8 @@ const yourSolution = () => {
   return true;
 };
 
+yourSolution();
+
 module.export = {
   yourSolution,
-}
+};
