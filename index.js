@@ -1,10 +1,8 @@
 const yourSolution = () => {
-  console.log(' In your solution ');
+  console.log(" In your solution ");
   return true;
 };
 
 yourSolution();
 
-module.export = {
-  yourSolution,
-};
+module.exports = yourSolution;
